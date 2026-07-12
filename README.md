@@ -12,7 +12,7 @@ Two ESP32s, An LED, Two servo motors, I2C LCD Display, Blynk IOT platform.
 
 DISCLAIMER: This project is only a simulation.
 
-[License](LISENCE)
+[License](LICENSE)
 
 ## Table of contents
 
