@@ -1,2 +1,3 @@
 # Smart-Home-Project
-This is 
+This is the project description:
+Project Description
