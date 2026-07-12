@@ -10,14 +10,14 @@ It sends data via UART to the second ESP32
 Technologies: MQ2 Gas sensor, HC-SR04 ultrasonic sensor, DHT22 sensor
 Two ESP32s, An LED, Two servo motors, I2C LCD Display, Blynk IOT platform.
 
-DISCLAIMER: This project is only a simulation.
+> **DISCLAIMER** : This project is only a simulation.
 
 [License](LICENSE)
 
 ## Table of contents
 
-- [System Architecture Diagram](System_Architecture.pdf)
-- [Data Flow Diagram](Data_Flow.pdf)
-- [Connection Diagram](Connection_Diagram.pdf)
-- [Board 1 Source Code](Smart_Home_Project_Board_1.zip)
-- [Board 2 Source Code](Smart_Home_Project_Board_2.zip)
+- [System Architecture Diagram](System%20Architecture.pdf)
+- [Data Flow Diagram](Data%20Flow.pdf)
+- [Connection Diagram](Connection%20Diagram.pdf)
+- [Board 1 Source Code](Smart%20Home%20Project%20Board%201.zip)
+- [Board 2 Source Code](Smart%20Home%20Project%20Board%202.zip)
