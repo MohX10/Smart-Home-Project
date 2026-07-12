@@ -16,7 +16,7 @@ DISCLAIMER: This project is only a simulation.
 
 ## Table of contents
 
-- [System Architecture Diagram](downloads/System Architecture.pdf)
+- [System Architecture Diagram](Smart-Home-Project/System_Architecture.pdf)
 - [Data Flow Diagram](Data Flow.pdf)
 - [Connection Diagram](Connection Diagram.pdf)
 - [Board 1 Source Code](downloads/Smart Home Project Board 1.zip)
