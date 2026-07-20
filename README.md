@@ -29,6 +29,6 @@ Two ESP32s, An LED, Two servo motors, I2C LCD Display, Blynk IOT platform.
 - [Smart Home Project Board 2](https://wokwi.com/projects/468449791726264321)
 
 2- Then you need a tool called virtual serial port kit (This one is free and made by HHD Software)
-[Virtual Serial Port Kit](https://freevirtualserialports.com/)
+- [Virtual Serial Port Kit](https://freevirtualserialports.com/)
 
 3- Check this video to know how to set the tool
