@@ -23,6 +23,7 @@ Two ESP32s, An LED, Two servo motors, I2C LCD Display, Blynk IOT platform.
 - [Board 2 Source Code](Smart%20Home%20Project%20Board%202)
 - [Blynk Screenshots](Blynk%20Screenshots)
 - [Virtual Serial Port Kit Setup](How%20to%20setup%20virtual%20serial%20port%20kit.mp4)
+- [Project Demonstration Video](Project%20Demonstration%20Video.mp4)
 
 ## How to use the project
 1- First of all here are the wokwi links
