@@ -33,7 +33,7 @@ Two ESP32s, An LED, Two servo motors, I2C LCD Display, Blynk IOT platform.
 - [Virtual Serial Port Kit](https://freevirtualserialports.com/)
 
 3- Check this video to know how to set the tool
-- [Virtual Serial Port Kit Setup](How%20to%20setup%20virtual%20serial%20port%20kit.mp4)
+- [Virtual Serial Port Kit Setup]()
 
 4- After that check this video to know how to use the project
 - [Project Demonstration Video]()
