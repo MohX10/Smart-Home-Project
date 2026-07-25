@@ -16,7 +16,6 @@ Two ESP32s, An LED, Two servo motors, I2C LCD Display, Blynk IOT platform.
 
 ## Table of contents
 
-- [System Architecture Diagram](System%20Architecture.pdf)
 - [Data Flow Diagram](Data%20Flow.pdf)
 - [Connection Diagram](Connection%20Diagram.pdf)
 - [Board 1 Source Code](Smart%20Home%20Project%20Board%201)
