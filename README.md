@@ -8,6 +8,7 @@ Key features:
 - It scans for gas leaks automatically from the first ESP32
 - It sends data via UART to the second ESP32
 - It also sends this data via Wi-Fi to Blynk, So you can check on anything from the phone
+
 Technologies: MQ2 Gas sensor, HC-SR04 ultrasonic sensor, DHT22 sensor
 Two ESP32s, An LED, Two servo motors, I2C LCD Display, Blynk IOT platform.
 
