@@ -39,10 +39,10 @@ Two ESP32s, An LED, Two servo motors, I2C LCD Display, Blynk IOT platform.
 - [Virtual Serial Port Kit Setup](How%20to%20setup%20virtual%20serial%20port%kit.mp4)
 
 4- Then you need to set up blynk (either from the web or from the app)
+
 4.1- Blynk Setup on Web
   - Go to this link and sign up an account: [Blynk](https://www.blynk.io/)
-4.2- After that check the video to setup the dashboard
-  - [How to setup blynk on web]()
+  - After that check this video to create and setup your project: [How to setup blynk on web]
 
 4- After that check this video to know how to use the project
 - [Project Demonstration Video](Project%20Demonstration%20Video.mp4)
