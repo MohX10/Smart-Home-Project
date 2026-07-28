@@ -42,7 +42,7 @@ Two ESP32s, An LED, Two servo motors, I2C LCD Display, Blynk IOT platform.
 
 4.1- Blynk Setup on Web
   - Go to this link and sign up an account: [Blynk](https://www.blynk.io/)
-  - After that check this video to create and setup your project: [How to setup blynk on web]
+  - After that check this video to create and setup your project: [How to setup blynk on web](https://drive.google.com/uc?export=download&id=1JMBiDbCX4KarzW07C629FwqmjzlYyJjz)
 
 5- After that check this video to know how to use the project
 - [Project Demonstration Video](https://drive.google.com/uc?export=download&id=146h5DWvjIHckfnF-eAnxQ5mhzHtOq6cW)
