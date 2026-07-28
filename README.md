@@ -24,8 +24,8 @@ Two ESP32s, An LED, Two servo motors, I2C LCD Display, Blynk IOT platform.
 - [Board 1 Source Code](Smart%20Home%20Project%20Board%201)
 - [Board 2 Source Code](Smart%20Home%20Project%20Board%202)
 - [Blynk Screenshots](Blynk%20Screenshots)
-- [Virtual Serial Port Kit Setup](How%20to%20setup%20virtual%20serial%20port%20kit.mp4)
-- [Project Demonstration Video](Project%20Demonstration%20Video.mp4)
+- [Virtual Serial Port Kit Setup](https://drive.google.com/uc?export=download&id=1gvaVHCDlAoVmdg-gA-Xg3URuwipngszB)
+- [Project Demonstration Video](https://drive.google.com/uc?export=download&id=146h5DWvjIHckfnF-eAnxQ5mhzHtOq6cW)
 
 ## How to use the project
 1- First of all here are the wokwi links
@@ -36,7 +36,7 @@ Two ESP32s, An LED, Two servo motors, I2C LCD Display, Blynk IOT platform.
 - [Virtual Serial Port Kit](https://freevirtualserialports.com/)
 
 3- Check this video to know how to set the tool
-- [Virtual Serial Port Kit Setup](How%20to%20setup%20virtual%20serial%20port%kit.mp4)
+- [Virtual Serial Port Kit Setup]([How%20to%20setup%20virtual%20serial%20port%kit.mp4](https://drive.google.com/uc?export=download&id=1gvaVHCDlAoVmdg-gA-Xg3URuwipngszB)
 
 4- Then you need to set up blynk (either from the web or from the app)
 
@@ -44,5 +44,5 @@ Two ESP32s, An LED, Two servo motors, I2C LCD Display, Blynk IOT platform.
   - Go to this link and sign up an account: [Blynk](https://www.blynk.io/)
   - After that check this video to create and setup your project: [How to setup blynk on web]
 
-4- After that check this video to know how to use the project
-- [Project Demonstration Video](Project%20Demonstration%20Video.mp4)
+5- After that check this video to know how to use the project
+- [Project Demonstration Video](https://drive.google.com/uc?export=download&id=146h5DWvjIHckfnF-eAnxQ5mhzHtOq6cW)
